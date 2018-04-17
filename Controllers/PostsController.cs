@@ -12,6 +12,7 @@ namespace mvc.Controllers
     {
         public IActionResult Index()
         {
+            //Index postController2
             return View();
         }
 
